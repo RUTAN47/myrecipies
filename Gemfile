@@ -15,6 +15,8 @@ gem 'bootstrap-sass', '~> 3.3.5'
 gem 'byebug'
 gem 'web-console', '~> 2.0'
 gem 'spring', group: :development
+gem 'carrierwave', '0.10.0'
+gem 'mini_magick', '3.8.0'
 
 group :development, :test do
   gem 'sqlite3'
